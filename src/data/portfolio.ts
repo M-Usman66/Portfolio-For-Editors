@@ -1,17 +1,6 @@
 import { PortfolioVideo } from "@/types";
 
-/**
- * All portfolio content lives here. Swap `videoSrc` and `thumbnail`
- * with your own files (in /public/videos and /public/images/thumbs,
- * or hosted URLs) and nothing else in the app needs to change.
- *
- * The two placeholder clips below are freely-licensed sample videos
- * so the site works out of the box before you add real work.
- */
 
-// Freely-usable Google sample clips, used only so the grids autoplay
-// something on first run. Replace with your own work before shipping —
-// see the README for the "Adding your real videos" section.
 const SAMPLE_LANDSCAPE =
   "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4";
 const SAMPLE_PORTRAIT =
@@ -25,7 +14,7 @@ export const longFormVideos: PortfolioVideo[] = [
     description:
       "Discover what Mars' thin atmosphere is made of, why humans can't breathe it, and how terraforming could change the future.",
     thumbnail: "/images/Air on mars thumbnail.png",
-    videoSrc: "/videos/Air on mars.mp4",
+    videoSrc: "https://res.cloudinary.com/cethnm5g/video/upload/v1787034220/Air_on_mars.mp4",
     aspect: "16:9",
     client: "LAC",
     year: "2025",
