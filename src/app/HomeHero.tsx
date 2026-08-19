@@ -42,7 +42,7 @@ export default function HomeHero() {
         preload="auto"
         className="absolute inset-0 h-full w-full object-cover"
       >
-        <source src="/videos/bgv2.mp4" type="video/mp4" />
+        <source src="https://res.cloudinary.com/cethnm5g/video/upload/v1787035195/bgv2.mp4" type="video/mp4" />
       </video>
 
       <div
