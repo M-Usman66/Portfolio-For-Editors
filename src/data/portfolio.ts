@@ -26,7 +26,7 @@ export const longFormVideos: PortfolioVideo[] = [
     description:
       "A look inside BYD’s industrial giant: how vertical integration and mega-factory automation power China’s leading electric vehicle manufacturer.",
     thumbnail: "/images/BYD.png",
-    videoSrc: "/videos/BYD FINAL,.mp4",
+    videoSrc: "https://res.cloudinary.com/cethnm5g/video/upload/v1787205857/BYD.mp4",
     aspect: "16:9",
     client: "CFF",
     year: "2025",
@@ -50,7 +50,7 @@ export const longFormVideos: PortfolioVideo[] = [
     description:
       "Uncover why we unconsciously derail our own success, the psychological triggers behind self-sabotage, and simple habits to overcome it.",
     thumbnail: "/images/Self Sabotage.png",
-    videoSrc: "https://drive.google.com/file/d/1INoz4v3hN4f0QRXHGH00vt0zNY_0EfWi/view?usp=drive_link",
+    videoSrc: "https://res.cloudinary.com/cethnm5g/video/upload/v1787206749/Self_Sabotage.mp4",
     aspect: "16:9",
     client: "CFF",
     year: "2024",
@@ -62,7 +62,7 @@ export const longFormVideos: PortfolioVideo[] = [
     description:
       "Discover Switzerland's highest-ranking universities, world-class research centers, tuition fees, and why international students choose Swiss higher education.",
     thumbnail: "/images/Top 10.jpg",
-    videoSrc: "https://drive.google.com/file/d/1zrf-2LvFWn06-KqT46sfR1PFBxNlD7rq/view?usp=drive_link",
+    videoSrc: "https://res.cloudinary.com/cethnm5g/video/upload/v1787207145/Top_10_Uni.mp4",
     aspect: "16:9",
     client: "CFY",
     year: "2024",
@@ -74,7 +74,7 @@ export const longFormVideos: PortfolioVideo[] = [
     description:
       "Explore the high-stakes technological race between the US and China for quantum supremacy, critical defense security, and next-generation computing dominance.",
     thumbnail: "/images/USA VS China.png",
-    videoSrc: "https://drive.google.com/file/d/10ycuaDU9fuuYQfOejRxSHXPYjgoB_h3j/view?usp=drive_link",
+    videoSrc: "https://res.cloudinary.com/cethnm5g/video/upload/v1787207540/USA_VS_CHINA.mp4",
     aspect: "16:9",
     client: "LAC",
     year: "2023",
@@ -166,7 +166,7 @@ export const ecommerceVideos: PortfolioVideo[] = [
     category: "short-form-ecommerce",
     description: "Edit for Bakery for Reels and TikTok ads.",
     thumbnail: "/images/thumbs/ec-07.jpg",
-    videoSrc: "/videos/Cake Final.mp4",
+    videoSrc: "https://res.cloudinary.com/cethnm5g/video/upload/v1787206225/Cake.mp4",
     aspect: "9:16",
     client: "H Bakes & Canapes",
     year: "2025",
